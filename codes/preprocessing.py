@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv("/home/CIN/lfvs2/Documents/DATA (1).csv")  #import/ leitura dos dados
+df = pd.read_csv("/home/CIN/lfvs2/Documents/DATA (1).csv")  #import/ leitura dos dados ***É necessário mudar o caminho do dataset quando baixar!***
 
 print(df.head())    #Teste de impressão das primeiras linhas
 
