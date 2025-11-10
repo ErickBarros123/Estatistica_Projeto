@@ -28,3 +28,6 @@ print("Tamanho do treino:", X_train.shape)
 print("Tamanho do teste:", X_test.shape)
 print("Exemplo de entrada:")
 print(X_train.head())
+
+
+    
